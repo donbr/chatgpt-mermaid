@@ -1,4 +1,6 @@
+# EA Sample Diagrams
 
+## Business Architecture
 ```mermaid
 graph LR
     A[Business Process] --> B((Data))
@@ -12,6 +14,7 @@ graph LR
     D --> J{Tools}
 ```
 
+## Information Architecture
 ```mermaid
 graph LR
     A[Enterprise Data Warehouse] --> B((Data Marts))
@@ -25,6 +28,7 @@ graph LR
     D --> J((Data Validation Rules))
 ```
 
+## Application Architecture
 ```mermaid
 graph LR
     A[Web Application] --> B((Presentation Layer))
@@ -39,6 +43,7 @@ graph LR
     D --> K{Oracle}
 ```
 
+## Technology Architecture
 ```mermaid
 graph LR
     A[Data Center] --> B((Servers))
