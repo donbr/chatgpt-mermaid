@@ -10,6 +10,7 @@ graph LR
     C --> H{Skills}
     D --> I{Infrastructure}
     D --> J{Tools}
+```
 
 ```mermaid
 graph LR
@@ -22,6 +23,7 @@ graph LR
     C --> H((ETL Processes))
     D --> I((Data Cleansing Rules))
     D --> J((Data Validation Rules))
+```
 
 ```mermaid
 graph LR
@@ -35,6 +37,7 @@ graph LR
     C --> I{Java}
     D --> J{SQL Server}
     D --> K{Oracle}
+```
 
 ```mermaid
 graph LR
@@ -49,3 +52,4 @@ graph LR
     C --> J{Firewalls}
     D --> K{SAN}
     D --> L{NAS}
+```
