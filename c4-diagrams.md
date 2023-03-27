@@ -1,8 +1,8 @@
 # C4 Sample Diagrams
 
-- thanks to Luke Merrett for the L1-L3 examples:  https://lukemerrett.com/building-c4-diagrams-in-mermaid/
+- thanks to Luke Merrett for these examples:  https://lukemerrett.com/building-c4-diagrams-in-mermaid/
 - experimental diagrams from the mermaid site:  https://mermaid.js.org/syntax/c4c.html
-  - used only for Level 4 diagram
+  - used only for Level 4 diagrams
 
 ## Level 1: System Context Diagram
 
